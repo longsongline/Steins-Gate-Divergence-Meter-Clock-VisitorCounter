@@ -1,4 +1,4 @@
-# Steins-Gate-Divergence-Meter-Clock-VisitorCounter
+# Steins-Gate-Divergence-Meter-Clock-Visitor
 This is a html inspired bySteins;Gate Divergence Meter Clock/VisitorCounter( THE Name is not decide)
 
 you can install and use it without any action else,very convenient
@@ -9,9 +9,13 @@ You can preview in this url:
 
 http://www.longsong.xyz/Count_Vistor
 
+When your number of visits is odd, the world line starts with 1, and vice versa when it is even
+
 and
 
 http://www.longsong.xyz/Time_Machine
+
+click Divergence-Meter change model
 
  EL PSY KONGROOOOOOOOOO!
 
