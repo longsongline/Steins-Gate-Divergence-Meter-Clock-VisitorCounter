@@ -7,7 +7,7 @@ It can record the number of page views of your website and the current time,
 and will continue to add the functions of various world lines/random world lines in the future
 You can preview in this url:
 
-http://www.longsong.xyz/Count_Vistor
+http://www.longsong.xyz/Count_Visitor
 
 When your number of visits is odd, the world line starts with 1, and vice versa when it is even
 
