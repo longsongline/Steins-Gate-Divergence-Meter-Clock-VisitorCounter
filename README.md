@@ -7,13 +7,13 @@ It can record the number of page views of your website and the current time,
 and will continue to add the functions of various world lines/random world lines in the future
 You can preview in this url:
 
-http://www.longsong.xyz/Count_Visitor
+http://longsong.games/Count_Visitor
 
 When your number of visits is odd, the world line starts with 1, and vice versa when it is even
 
 and
 
-http://www.longsong.xyz/Time_Machine
+http://longsong.games/Time_Machine
 
 click Divergence-Meter change model
 
